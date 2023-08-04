@@ -1,0 +1,12 @@
+.sidebar{
+    background: #FAFBFD;
+    height: 100vh;
+}
+.list {
+    list-style-type: none;
+    
+}
+.list li{
+    margin-bottom: 20px;
+
+}
